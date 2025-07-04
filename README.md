@@ -2,6 +2,14 @@
 
 The description for the plugin scaffolded by this repository.
 
+## Development
+
+Use docker compose with:
+
+* `docker compose up`. It spins up:
+  * localhost:8080 with the WordPress,
+  * localhost:8081 with phpMyAdmin
+
 ## Installation
 
 ### Using The WordPress Dashboard

@@ -4,20 +4,20 @@
  *
  * TODO: The description for the plugin scaffolded by this file.
  *
- * PHP version 7.4.27
+ * PHP version 8.2
  *
  * @category WordPress_Plugin
  * @package  TODO
- * @author   Tom McFarlin <tom@tommcfarlin.com>
+ * @author   Marcin Wosinek <marcin.wosinek@gmail.com>
  * @license  GPLv3 <https://www.gnu.org/licenses/gpl-3.0.en.html>
- * @link     https://github.com/tommcfarlin/wp-plugin-scaffold/
+ * @link     https://github.com/marcin-wosinek/wp-plugin-scaffold
  * @since    TODO: Date
  *
  * @wordpress-plugin
  * Plugin Name: WP Plugin Scaffold
- * Plugin URI:  https://github.com/tommcfarlin/wp-plugin-scaffold/
+ * Plugin URI:  https://github.com/marcin-wosinek/wp-plugin-scaffold
  * Description: The description for the plugin scaffolded by this file.
- * Author:      Tom McFarlin <tom@tommcfarlin.com>
+ * Author:      Marcin Wosinek <marcin.wosinek@gmail.com>
  * Version:     1.0.0
  */
 
