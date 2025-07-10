@@ -24,6 +24,12 @@ Then rename the files:
 mv wp-plugin-scaffold <your-plugin>
 ```
 
+Update the `composer.lock` file:
+
+```
+composer update
+```
+
 ## Development
 
 Use docker compose with:
