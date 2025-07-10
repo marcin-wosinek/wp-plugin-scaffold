@@ -15,6 +15,7 @@ Change the plugin name in files, on MacOS:
 
 ```
 git grep -l wp-plugin-scaffold | xargs sed -i '' 's/wp-plugin-scaffold/<your-plugin>/g'
+git grep -l 'WP Plugin Scaffold' | xargs sed -i '' 's/WP Plugin Scaffold/<Your Plugin>/g'
 ```
 
 Then rename the files:
